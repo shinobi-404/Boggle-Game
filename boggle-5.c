@@ -1,9 +1,3 @@
-// Batman Yousuf
-// Prof Markle
-// 07/31/2022
-// COP 3223C
-
-
 #include <stdio.h>
 #include <stdlib.h>
 //New liabaries 
